@@ -64,8 +64,6 @@ li {
 .contact-form {
   padding-top: 100px;
 }
-
-/* Tambahkan CSS untuk tags <input> dan <textarea> */
 input, textarea {
   width: 400px;
   margin-top: 10px;
@@ -74,8 +72,6 @@ input, textarea {
   font-size: 18px;
   border: 1px solid #dee7ec;
 }
-
-/* Tambahkan CSS untuk contact-submit */
 .contact-submit {
   background-color: #dee7ec;
   color: #889eab;
